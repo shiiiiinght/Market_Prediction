@@ -1,2 +1,1 @@
-# Market_Prediction
-An Attempt to create an AI for prediction of future stocks
+#OCC Business and Actuarial Science Club Market Prediction Project
